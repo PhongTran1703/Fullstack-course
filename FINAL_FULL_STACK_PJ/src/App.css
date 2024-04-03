@@ -1,0 +1,28 @@
+.button-large {
+  padding: 10px 20px;
+  font-size: 16px;
+}
+.info-button {
+  background-color: rgb(92, 92, 210);
+  color: white;
+}
+
+.navbar-container {
+  display: flex;
+  justify-content: center;
+}
+
+.view-container {
+  display: flex; /* Use flexbox for a horizontal layout */
+}
+
+.task-container {
+  flex: 1; /* Make the task container take up available space */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.task-list {
+  margin-right: 20px; /* Add spacing between task list and "Add New Task" section */
+}

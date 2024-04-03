@@ -1,0 +1,27 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "Petting the cat",
+      "tags": [
+        "pets"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Have a conversation with the cat",
+      "tags": [
+        "pets",
+        "therapy"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Feed the cat",
+      "tags": [
+        "pets",
+        "daily chores"
+      ]
+    }
+  ]
+}
